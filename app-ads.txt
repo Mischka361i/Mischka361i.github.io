@@ -1536,3 +1536,45 @@ pubeasy.io,110579,RESELLER
 pubmatic.com,168216,RESELLER,5d62403b186f2ace
 pubmatic.com,168244,RESELLER,5d62403b186f2ace
 triplelift.com,14826,RESELLER,6c33edb13117fd86
+
+# Unity Ads - fehlende Reseller (Unity Dashboard, 2026-10-28)
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bigo.sg, adidz3dyfp, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+freewheel.tv, 741650, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CAXEGFDP, RESELLER
+media.net, 8CU5L226O, RESELLER
+media.net, 8CU675N41, RESELLER
+media.net, 8CUH46N56, RESELLER
+media.net, 8CUUQ286L, RESELLER
+monetrix.ai, 10761, RESELLER
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+start.io, 131192070, RESELLER
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+thunder-monetize.com, 2158729563, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+triplelift.com, 14705-EB, RESELLER
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+xandr.com, 7353, RESELLER
+
+# Meta Audience Network (Business Mischka361 Studios, 2026-10-28)
+facebook.com, 490487508146235, RESELLER, c3e20eee3f780d68
+facebook.com, 1896969598331005, RESELLER, c3e20eee3f780d68
