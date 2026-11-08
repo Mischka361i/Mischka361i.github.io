@@ -1576,7 +1576,7 @@ verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 xandr.com, 7353, RESELLER
 
 # Meta Audience Network (Business Mischka361 Studios, 2026-10-28)
-facebook.com, 490487508146235, RESELLER, c3e20eee3f780d68
+facebook.com, 490487508146235, DIRECT, c3e20eee3f780d68
 facebook.com, 1896969598331005, RESELLER, c3e20eee3f780d68
 
 # BIGO Ads (Tiny Harvest, 2026-10-28)
